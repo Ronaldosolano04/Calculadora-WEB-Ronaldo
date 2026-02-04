@@ -1,7 +1,7 @@
 var display = document.getElementById("display");
 var historyList = document.getElementById("historyList");
 
-// Cargar historial al iniciar
+
 window.onload = function () {
     loadHistory();
 };
